@@ -21,16 +21,6 @@ A C# Console-Based Examination System that simulates both **Final Exams** and **
 
 ---
 
-## 📸 Demo Screens
-
-> 💡 Add screenshots or screen recordings here showing:
-> - Instructions
-> - Exam navigation
-> - Flagging questions
-> - Final results
-
----
-
 ## 🧠 Technologies Used
 
 - **Language:** C#
