@@ -95,9 +95,8 @@ The following diagram represents the overall structure of the Examination System
 
 [UML Link](https://lucid.app/lucidchart/d4d0be0c-d586-4105-947f-0f218140568e/edit?viewport_loc=-2404%2C53%2C3277%2C1300%2C0_0&invitationId=inv_72db0add-0df9-416d-b85d-2dd6053a9c23)
 
-![Blank diagram - Page 1](https://github.com/user-attachments/assets/d5befaaa-9b10-4615-b8bc-1c70b9d4dfa2)
+![Blank diagram - Page 1(1)](https://github.com/user-attachments/assets/e9c6d38a-8af0-41b2-a74f-9c5551717ef5)
 
-)  
 
 ---
 
